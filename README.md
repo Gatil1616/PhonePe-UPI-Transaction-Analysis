@@ -35,10 +35,30 @@ The underlying dataset contains **502,887 raw transaction records** (May 2026) a
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="assets/Dashboard-full.png" ="Full Dashboard Preview" width="95%"/>
+  <img src="./assets/dashboard-full.png" alt="Full Dashboard Preview" width="95%"/>
 </div>
 
 > 💡 Replace the image above with your own exported screenshot — save it as `assets/dashboard-full.png` in your repo (see [Folder Structure](#-folder-structure) below).
+
+---
+
+## 🎬 Demo Video
+
+<div align="center">
+
+[![Watch the Demo](./assets/video-thumbnail.png)](https://youtu.be/YOUR-VIDEO-ID)
+
+*Click the thumbnail above to watch the full walkthrough on YouTube.*
+
+</div>
+
+> 💡 **How to add your real demo video** (pick one):
+> - **YouTube (recommended, easiest):** Upload your screen-recording to YouTube (even as "Unlisted"), then replace `YOUR-VIDEO-ID` above with your video's ID, and `./assets/video-thumbnail.png` with a screenshot/thumbnail image saved in your `assets/` folder.
+> - **Native GitHub video:** Open a new GitHub Issue in your repo, drag-and-drop your `.mp4` file into the comment box (don't submit the issue), wait for it to upload, then copy the generated `https://github.com/user-attachments/assets/...` link it creates. Paste that link directly below instead of the YouTube embed:
+>   ```html
+>   <video src="https://github.com/user-attachments/assets/YOUR-LINK" controls width="100%"></video>
+>   ```
+>   This plays natively inside the README on GitHub, no click-through needed — but the link only works because it's hosted on GitHub's own CDN, not an arbitrary external URL.
 
 ---
 
@@ -103,7 +123,8 @@ This granularity is what powers the dashboard's fraud-risk scoring, hour × day 
  ┣ 📂 assets
  ┃ ┣ 🖼️ dashboard-full.png
  ┃ ┣ 🖼️ kpi-cards.png
- ┃ ┗ 🖼️ state-map.png
+ ┃ ┣ 🖼️ state-map.png
+ ┃ ┗ 🖼️ video-thumbnail.png
  ┣ 📊 Phone_Pay_Excel_Project.xlsx
  ┃ ┣ 📄 raw_upi_data     (502,887 raw transaction records)
  ┃ ┣ 📄 Sheet1           (pivot summaries & aggregations)
@@ -157,7 +178,9 @@ Suggestions and improvements are welcome! Feel free to open an issue or submit a
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=5F259F&center=true&vCenter=true&width=500&lines=Gatil+Dhawan;Data+%26+Analytics+Enthusiast;Excel+%C2%B7+Dashboards+%C2%B7+Data+Storytelling" alt="Gatil Dhawan" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=5F259F&center=true&vCenter=true&width=500&lines=Gatil+Dhawan;Aspiring+Data+Analyst" alt="Gatil Dhawan" />
+
+This project was created as part of my data analytics portfolio to demonstrate skills in **Excel, data cleaning, data analysis, pivot tables, visualization, and dashboard development.**
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
