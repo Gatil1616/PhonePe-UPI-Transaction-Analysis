@@ -35,7 +35,7 @@ The underlying dataset contains **502,887 raw transaction records** (May 2026) a
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="assets/Dashboard-full.png" alt="Full Dashboard Preview" width="95%"/>
+  <img src="assets/Dashboard-full.png" alt="Full Dashboard Preview" width="120%"/>
 </div>
 
 
