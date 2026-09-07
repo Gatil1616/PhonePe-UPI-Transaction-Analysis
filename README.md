@@ -138,7 +138,8 @@ This granularity is what powers the dashboard's fraud-risk scoring, hour × day 
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/phonepe-upi-dashboard.git
+   git clone https://github.com/Gatil1616/PhonePe-UPI-Transaction-Analysis
+
    ```
 2. **Open the Excel file**
    Open `Phone_Pay_Excel_Project.xlsx` in Microsoft Excel (2016 or later recommended for map charts). Go to the **UPI Dashboard** sheet tab.
