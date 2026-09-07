@@ -182,9 +182,17 @@ Suggestions and improvements are welcome! Feel free to open an issue or submit a
 
 This project was created as part of my data analytics portfolio to demonstrate skills in **Excel, data cleaning, data analysis, pivot tables, visualization, and dashboard development.**
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+## ðŸ‘¤ Connect with Me
+
+<a href="www.linkedin.com/in/gatil-dhawan-474097340">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Gatil1616">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:sandeepsks008@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D1483?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
@@ -196,7 +204,7 @@ If you found this project useful or interesting, consider giving it a **star** â
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME/phonepe-upi-dashboard?style=social" alt="Star"/>
+<img src="https://img.shields.io/github/stars/Gatil1616/PhonePe-UPI-Transaction-Analysis?style=social" alt="Star"/>
 
 </div>
 
