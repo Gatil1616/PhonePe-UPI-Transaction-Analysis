@@ -184,7 +184,7 @@ This project was created as part of my data analytics portfolio to demonstrate s
 
 ## 👤 Connect with Me
 
-<a href="www.linkedin.com/in/gatil-dhawan-474097340">
+<a href="https://www.linkedin.com/in/gatil-dhawan-474097340/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Gatil1616">
