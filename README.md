@@ -197,20 +197,17 @@ This project was created as part of my data analytics portfolio to demonstrate s
 </div>
 
 ---
-
 ## ⭐ Show Some Love
 
-If you found this project useful or interesting, please consider giving it a **star** ⭐ — it really helps!
+If you found this project useful or interesting, consider giving it a **star** ⭐ — it helps a lot!
 
 <div align="center">
 
 <a href="https://github.com/Gatil1616/PhonePe-UPI-Transaction-Analysis">
-  <img src="https://img.shields.io/github/stars/Gatil1616/PhonePe-UPI-Transaction-Analysis?style=for-the-badge&logo=github&label=Star%20this%20repo" alt="Star this repository"/>
+  <img src="https://img.shields.io/github/stars/Gatil1616/PhonePe-UPI-Transaction-Analysis?style=social" alt="GitHub Stars"/>
 </a>
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:5F259F&height=120&section=footer" width="100%"/>
