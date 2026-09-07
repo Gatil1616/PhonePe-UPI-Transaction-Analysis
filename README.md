@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F259F,100:8B5CF6&height=220&section=header&text=PhonePe%20UPI%20Transaction%20Dashboard&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-time%20insights%20into%20UPI%20transactions,%20merchants,%20banks%20%26%20fraud%20trends&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F259F,100:8B5CF6&height=220&section=header&text=PhonePe%20UPI%20Transaction%20Dashboard&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-time%20insights%20into%20UPI%20transactions,%20merchants,%20banks%20and%20fraud%20trends&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Animated typing subtitle -->
 <a href="#">
