@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Badges -->
-![Excel](https://img.shields.io/badge/Built%20With-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/Built%20With-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="Made with Love"/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="70"/>
 
@@ -71,10 +71,10 @@ The underlying dataset contains **502,887 raw transaction records** (May 2026) a
 
 <div align="center">
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Slicers](https://img.shields.io/badge/Slicers%20%26%20Filters-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data%20Visualization-8B5CF6?style=flat-square&logo=chartdotjs&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Pivot Tables"/>
+<img src="https://img.shields.io/badge/Slicers%20%26%20Filters-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Slicers"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-8B5CF6?style=flat-square&logo=chartdotjs&logoColor=white" alt="Data Viz"/>
 
 </div>
 
@@ -159,9 +159,9 @@ Suggestions and improvements are welcome! Feel free to open an issue or submit a
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=5F259F&center=true&vCenter=true&width=500&lines=Gatil+Dhawan;Data+%26+Analytics+Enthusiast;Excel+%C2%B7+Dashboards+%C2%B7+Data+Storytelling" alt="Gatil Dhawan" />
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 
 </div>
 
@@ -173,7 +173,7 @@ If you found this project useful or interesting, consider giving it a **star** â
 
 <div align="center">
 
-![Star](https://img.shields.io/github/stars/<your-username>/phonepe-upi-dashboard?style=social)
+<img src="https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME/phonepe-upi-dashboard?style=social" alt="Star"/>
 
 </div>
 
