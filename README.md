@@ -35,10 +35,9 @@ The underlying dataset contains **502,887 raw transaction records** (May 2026) a
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="./assets/dashboard-full.png" alt="Full Dashboard Preview" width="95%"/>
+  <img src="assets/Dashboard-full.png" alt="Full Dashboard Preview" width="95%"/>
 </div>
 
-> 💡 Replace the image above with your own exported screenshot — save it as `assets/dashboard-full.png` in your repo (see [Folder Structure](#-folder-structure) below).
 
 ---
 
