@@ -35,7 +35,7 @@ The underlying dataset contains **502,887 raw transaction records** (May 2026) a
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="assets/Dashboard-full.png" alt="Full Dashboard Preview" width="120%"/>
+  <img src="assets/Dashboard-full.png" alt="Full Dashboard Preview" width="110%"/>
 </div>
 
 
@@ -45,21 +45,11 @@ The underlying dataset contains **502,887 raw transaction records** (May 2026) a
 
 <div align="center">
 
-[![Watch the Demo](./assets/video-thumbnail.png)](https://youtu.be/YOUR-VIDEO-ID)
-
-*Click the thumbnail above to watch the full walkthrough on YouTube.*
+<img src="./assets/Dashboard-Demo.gif" width="110%" alt="PhonePe UPI Dashboard Demo"/>
 
 </div>
 
-> 💡 **How to add your real demo video** (pick one):
-> - **YouTube (recommended, easiest):** Upload your screen-recording to YouTube (even as "Unlisted"), then replace `YOUR-VIDEO-ID` above with your video's ID, and `./assets/video-thumbnail.png` with a screenshot/thumbnail image saved in your `assets/` folder.
-> - **Native GitHub video:** Open a new GitHub Issue in your repo, drag-and-drop your `.mp4` file into the comment box (don't submit the issue), wait for it to upload, then copy the generated `https://github.com/user-attachments/assets/...` link it creates. Paste that link directly below instead of the YouTube embed:
->   ```html
->   <video src="https://github.com/user-attachments/assets/YOUR-LINK" controls width="100%"></video>
->   ```
->   This plays natively inside the README on GitHub, no click-through needed — but the link only works because it's hosted on GitHub's own CDN, not an arbitrary external URL.
 
----
 
 ## ✨ Key Features
 
